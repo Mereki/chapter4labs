@@ -1,15 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Names:        Caleb Mandapat
-#               Mason McIntosh
-#               Diego Arroyo
-#               Lisandro Demagistris
-# Section:      509
-# Assignment:   4.14
-# Date:         15 September 2023
-
 # Get coefficients
 co_A = int(input("Please enter the coefficient A: "))
 co_B = int(input("Please enter the coefficient B: "))
